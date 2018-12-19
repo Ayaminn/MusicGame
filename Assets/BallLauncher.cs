@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BallControll : MonoBehaviour
+public class BallLauncher : MonoBehaviour
 { 
     //ボールというオブジェクトを紐付ける
     public GameObject ball;
